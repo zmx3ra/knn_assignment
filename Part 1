@@ -1,0 +1,6 @@
+#1: Regression is where you are trying to predict values; you will make some sort of equation off of statistical data, and use that data to predict what other data would be. This prediction is of a continuous, numeric variable. Classification, on the other hand, predicts discrete categories of data, such as dog or cat, otherwise predicting a categorical outcome.
+#2: It cross tabulates actual vs. predicted values in classification. It helps us understand whether a model has done well or poorly.
+#3: It is the sum of squared errors. You square the differences between the actual vs. predicted values and add them up. 
+#4: Underfitting is where your model is too simple to explain the research or machine learning or question you are discovering; overfitting is when your model is too complex.
+#5: Because the model can work with new data that it hasn't seen, so we can maximize its performance. Having a non-optimal value of K can lead to overfitting or underfitting, so choosing a good k will improve model performance. #https://www.geeksforgeeks.org/machine-learning/how-to-find-the-optimal-value-of-k-in-knn/
+#6: Prediction is helpful because it gives you a definite answer/class that it is predicting. However, it has to pick one and could be wrong. Probability will give you how likely each class is, but it won't give you a straight answer. 
